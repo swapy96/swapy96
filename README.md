@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 # Hello, I'm Swapnil Patil!
 
-Welcome to my GitHub profile! I'm a passionate web developer with expertise in various web frameworks and technologies. I am dedicated to creating user-centric and innovative web solutions.
+Welcome to my GitHub profile! I'm a passionate web developer with expertise in various web frameworks and technologies. 
+I am a highly motivated web developer with a multidisciplinary background encompassing computer science, UX design, and business administration, customer service, banking advisory, finance and Investment. Yes, I am allrounder!, but my first love is Computer Science and Engineering and thats where I wanna be for work, With a strong technical foundation and a keen eye for user-centered design, I strive to create innovative and impactful web solutions that seamlessly blend functionality and aesthetics. I am dedicated to creating user-centric and innovative web solutions.
 
 ## Education
 - Certification in UX Design from BrainStation, Vancouver, Canada (Apr 2023 - Jun 2023)
@@ -31,17 +32,7 @@ Welcome to my GitHub profile! I'm a passionate web developer with expertise in v
 - Software Engineer at MindWings Technologies, India (Jun 2014 - Nov 2015)
 
 ## Projects
-1. InStock-Warehouse Management: Full Stack Web Application (Mar 2023)
-   - Tools: HTML, SCSS, JavaScript, JSX, React.js, Git, GitHub, Jira
-   - Backend: MySQL, Node.js, Express.js
-
-2. SPARKMED: Framework for Dynamic Integration of Multimedia Medical Data (Mar 2014)
-   - Tools: JSP, Servlet, HTML, .NET
-   - Backend: MySQL, SQLite
-
-3. E-Governance's Website (Mar 2011)
-   - Tools: HTML, ASP.NET
-   - Backend: MySQL, Oracle10G
+Please browse in Repos! 
 
 ## Skills
 - Web Frameworks and Libraries: React.js, Django
