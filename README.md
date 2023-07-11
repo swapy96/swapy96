@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello, I'm Swapnil Patil!
+# Hello!, I'm Swapnil Patil,
 
 Welcome to my GitHub profile! I'm a passionate web developer with expertise in various web frameworks and technologies. 
 I am a highly motivated web developer with a multidisciplinary background encompassing computer science, UX design, and business administration, customer service, banking advisory, finance and Investment. Yes, I am allrounder!, but my first love is Computer Science and Engineering and thats where I wanna be for work, With a strong technical foundation and a keen eye for user-centered design, I strive to create innovative and impactful web solutions that seamlessly blend functionality and aesthetics. I am dedicated to creating user-centric and innovative web solutions.
